@@ -5,7 +5,7 @@ RSpec.describe Kansuji do
 
   describe "random" do
     context "mutual try" do
-        1000000.times do |index|
+        10000.times do |index|
           it "#{index} " do
           exp = rand(75)
           num = rand(10 ** exp)
