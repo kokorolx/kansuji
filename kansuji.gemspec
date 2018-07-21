@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tamlh@atmarkcafe.org"]
 
   spec.summary       = %q{Convert number to kanji and kanji to number in japanese}
-  spec.description   = %q{Re-define Number and String to Convert number to kanji and kanji to number in japanese||https://kansuji.herokuapp.com/to_kansujis}
+  spec.description   = %q{Re-define Number and String to Convert number to kanji and kanji to number in japanese}
   spec.homepage      = "https://github.com/kokorolee/kansuji"
   spec.license       = "MIT"
 
