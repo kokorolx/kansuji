@@ -24,7 +24,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+- `1.to_kansuji` #=> "一"
+- `"一".to_number` #=> 1
 
 ## Development
 
